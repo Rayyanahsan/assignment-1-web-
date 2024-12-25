@@ -109,7 +109,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url('image/your-background-image1.jpg') no-repeat center center/cover;
+    background: url('your-background-image1.jpg') no-repeat center center/cover;
     padding: 0 2rem;
     text-align: center;
 }
